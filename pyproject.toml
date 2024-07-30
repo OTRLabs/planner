@@ -9,6 +9,9 @@ dependencies = [
     "litestar>=2.10.0",
     "sqlalchemy>=2.0.31",
     "rich>=13.7.1",
+    "python-dotenv>=1.0.1",
+    "advanced-alchemy>=0.18.0",
+    "redis>=5.0.7",
 ]
 requires-python = "==3.12.*"
 readme = "README.md"
