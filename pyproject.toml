@@ -8,6 +8,7 @@ authors = [
 dependencies = [
     "litestar>=2.10.0",
     "sqlalchemy>=2.0.31",
+    "rich>=13.7.1",
 ]
 requires-python = "==3.12.*"
 readme = "README.md"
